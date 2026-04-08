@@ -1,4 +1,7 @@
 ---
 title: about
-date: 2026-01-16 17:52:20
 ---
+
+TBD
+
+[CV](/CV-1.pdf) (updated: 2026-04-09)
