@@ -53,12 +53,14 @@
             "id": "045147942ff23e20",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.15.1"
+                "file": "_posts/csaw-2026.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.15.1"
+              "icon": "lucide-file",
+              "title": "csaw-2026"
             }
           }
         ],
@@ -225,15 +227,15 @@
   },
   "active": "045147942ff23e20",
   "lastOpenFiles": [
+    "_posts/Malware Studies (1).md",
+    "_drafts/csaw-2026-additions.md",
+    "_drafts/Malware Studies (1).md",
     "file:/home/slimlix/Downloads/INI_session_transcript.md",
     "file:/home/slimlix/Downloads/hw1-1/write-up.md",
     "Pasted image 20261107160657.png",
-    "_posts/Malware Studies (1).md",
-    "_posts/Malware Studies (1).md",
     "_posts/csaw-2026.md",
     "_posts/csaw-2026.md.tmp.599649.a3a247dd0a23",
     "_posts/csaw-2026.md.tmp.599649.b1cc1fa3188f",
-    "_drafts/csaw-2026-additions.md",
     "_posts/plantphotographer.md",
     "_drafts/csaw-2026-additions.md.tmp.1601670.92524fa1de8e",
     "_drafts/csaw-2026-additions.md.tmp.1601670.fb0a229441fc",
